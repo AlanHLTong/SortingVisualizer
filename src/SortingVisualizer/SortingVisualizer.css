@@ -9,3 +9,14 @@
     display: inline-block;
     margin: 0 1px;
   }
+
+  .display-linebreak {
+    white-space: pre-line;
+  }
+
+  .title {
+    white-space: pre-line;
+    font-size:30px;
+    color: darkorchid
+    
+  }
